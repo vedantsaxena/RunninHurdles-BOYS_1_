@@ -114,7 +114,7 @@ class Game {
 
     hurdles1=[hurdle1,hurdle2,hurdle3,hurdle4,hurdle5,hurdle6];
     hurdles2=[hurdle7, hurdle8, hurdle9, hurdle10, hurdle11, hurdle12];
-    hurdles3=[hurdle13, hurdle14, hurdle15, hurdle16, hurdle17, hurdle18];
+    hurdles3=[hurdle13, hurdle14, hurdle15, hurdle16, /*hurdle17, hurdle18*/];
     
 
     cars = [car1, car2, car3, car4];
