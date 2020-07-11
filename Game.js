@@ -58,7 +58,7 @@ class Game {
     hurdle10 = createSprite(3000,350);
     hurdle11= createSprite(3000,150);
     hurdle12= createSprite(3000,750);
-    hurdle13= createSprite(3000,150);
+    hurdle13= createSprite(3000,550);
     hurdle14= createSprite(3000,750);
     hurdle15= createSprite(4000,550);
     hurdle16= createSprite(4000,350);
