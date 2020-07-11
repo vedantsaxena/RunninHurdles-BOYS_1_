@@ -50,20 +50,18 @@ class Game {
     hurdle2 = createSprite(1000,750);
     hurdle3 = createSprite(1000,550);
     hurdle4 = createSprite(1000,350);
-    hurdle5 = createSprite(1000,150);
-    hurdle6 = createSprite(2000,750);
-    hurdle7 = createSprite(2000,150);
-    hurdle8 = createSprite(2000,350);
-    hurdle9 = createSprite(2000,550);
-    hurdle10 = createSprite(3000,350);
-    hurdle11= createSprite(3000,150);
-    hurdle12= createSprite(3000,750);
-    hurdle13= createSprite(3000,550);
-    hurdle14= createSprite(3000,750);
-    hurdle15= createSprite(4000,550);
-    hurdle16= createSprite(4000,350);
-    hurdle17= createSprite(4000,150);
-    hurdle18= createSprite(4000,750);
+    hurdle5 = createSprite(2000,750);
+    hurdle6 = createSprite(2000,150);
+    hurdle7 = createSprite(2000,350);
+    hurdle8 = createSprite(2000,550);
+    hurdle9 = createSprite(3000,350);
+    hurdle10= createSprite(3000,150);
+    hurdle11= createSprite(3000,750);
+    hurdle12= createSprite(3000,550);
+    hurdle13= createSprite(4000,550);
+    hurdle14= createSprite(4000,350);
+    hurdle15= createSprite(4000,150);
+    hurdle16= createSprite(4000,750);
     
 
     hurdle1.addImage("h1",hurdleimg);
@@ -82,8 +80,8 @@ class Game {
     hurdle14.addImage("h14",hurdleimg);
     hurdle15.addImage("h15",hurdleimg);
     hurdle16.addImage("h16",hurdleimg);
-    hurdle17.addImage("h17",hurdleimg);
-    hurdle18.addImage("h18",hurdleimg);
+    /*hurdle17.addImage("h17",hurdleimg);
+    hurdle18.addImage("h18",hurdleimg);*/
 
     car1.scale=5;
     car2.scale=5;
@@ -111,8 +109,8 @@ class Game {
     hurdle14.scale=0.3;
     hurdle15.scale=0.3;
     hurdle16.scale=0.3;
-    hurdle17.scale=0.3;
-    hurdle18.scale=0.3;
+    /*hurdle17.scale=0.3;
+    hurdle18.scale=0.3;*/
 
     hurdles1=[hurdle1,hurdle2,hurdle3,hurdle4,hurdle5,hurdle6];
     hurdles2=[hurdle7, hurdle8, hurdle9, hurdle10, hurdle11, hurdle12];
